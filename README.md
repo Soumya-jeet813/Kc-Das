@@ -131,6 +131,11 @@ screenshots/  → Project screenshots
 
 Web Developer
 
+## 🏢 Developed at Green Reef Outsourcing Pvt. Ltd.
+
+This project was developed by **Soumyajeet Dutta** during his time working at **Green Reef Outsourcing Pvt. Ltd.**
+
+
 ## 📄 License
 
 This project is for portfolio and demonstration purposes.
